@@ -1,0 +1,4 @@
+2025-09-21 21:11:22 [INFO] Have saved 993 products in batch 1 into data/products_batch_1.json
+2025-09-21 21:11:22 [INFO] Have saved 7 "404" errors into data/error/error_404_code.csv
+2025-09-21 21:11:22 [INFO] Have saved 0 HTTP errors into data/error/http_error.csv
+2025-09-21 21:11:22 [INFO] Have saved 0 timeout errors into data/error/timeout_error.csv
