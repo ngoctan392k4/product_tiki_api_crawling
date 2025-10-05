@@ -20,7 +20,6 @@
 
 ## 📋 Preparation
 - Download list of product ids and configure the API url
-  - List product_id: (List of product ids)[https://1drv.ms/u/s!AukvlU4z92FZgp4xIlzQ4giHVa5Lpw?e=qDXctn]
   - API get product detail: (API)[https://api.tiki.vn/product-detail/api/v1/products/{product_id}]
 
 ## 📝 Tasks
