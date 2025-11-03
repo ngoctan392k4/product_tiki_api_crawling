@@ -19,8 +19,7 @@
 
 
 ## 📋 Preparation
-- Download list of product ids and configure the API url
-  - API get product detail: (API)[https://api.tiki.vn/product-detail/api/v1/products/{product_id}]
+- Download list of product ids and configure the Tiki API url
 
 ## 📝 Tasks
 - Based on the list of product ids and API product data, crawl products' information
